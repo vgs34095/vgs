@@ -1,0 +1,23 @@
+{
+  "name": "vgs-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://vgs34095@github.com/vgs34095/vgs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vgs34095/vgs/issues"
+  },
+  "homepage": "https://github.com/vgs34095/vgs#readme",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
